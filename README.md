@@ -12,3 +12,8 @@ The k-means clustering algorithm mainly performs two tasks:
 Determines the best value for K center points or centroids by an iterative process.
 Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster.
 Hence each cluster has datapoints with some commonalities, and it is away from other clusters.
+
+The below diagram explains the working of the K-means Clustering Algorithm:
+<img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-means-clustering-algorithm-in-machine-learning.png" alt="Dinosaur" />
+
+K-Means Clustering Algorithm
